@@ -1,0 +1,13 @@
+https://www.arduino.cc/
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+C:\Program Files (x86)\Arduino
+C:\Users\admin\AppData\Local\Arduino15
+C:\Users\admin\Documents\Arduino
+
+https://git-scm.com/
+
+
+https://github.com/espressif/arduino-esp32.git
+C:/Users/admin/Documents/Arduino/hardware/espressif/esp32
+cd C:/Users/admin/Documents/Arduino/hardware/espressif/esp32/tools
